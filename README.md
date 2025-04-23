@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Durgaprasad Mallah</h1>
 <h3 align="center">A passionate Fresher DevOps Engineer from India</h3>
 
-- 💬 Ask me about **AWS services, CICD, Docker,Kubernetes**
+           - 💬 Ask me about **AWS services, CICD, Docker,Kubernetes**
 
-- 📫 How to reach me **mallahdurgaprasad@gmail.com**
+           - 📫 How to reach me **mallahdurgaprasad@gmail.com**
 
-- ⚡ Fun fact **Talking friendly even if i don't know**
+           - ⚡ Fun fact **Talking friendly even if i don't know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
