@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/durgaprasad162/durgaprasad162/blob/main/devops.png" alt="Cloud DevOps Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Durgaprasad Mallah</h1>
 <h3 align="center">A passionate Fresher DevOps Engineer from India</h3>
 
