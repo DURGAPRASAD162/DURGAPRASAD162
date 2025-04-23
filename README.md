@@ -24,7 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgaprasad162&show_icons=true&locale=en" alt="durgaprasad162" /></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/durgaprasad162/durgaprasad162/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/durgaprasad162/durgaprasad162/blob/output/github-contribution-grid-snake.svg)
 
