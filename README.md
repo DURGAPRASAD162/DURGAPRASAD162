@@ -19,3 +19,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgaprasad162&show_icons=true&locale=en&layout=compact" alt="durgaprasad162" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgaprasad162&show_icons=true&locale=en" alt="durgaprasad162" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DURGAPRASAD162/DURGAPRASAD162/output/snake.svg" alt="Snake animation" />
+
